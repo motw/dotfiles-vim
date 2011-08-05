@@ -67,3 +67,6 @@
 [submodule "home\\vimfiles\\bundle\\align"]
 	path = home\\vimfiles\\bundle\\align
 	url = git://github.com/vim-scripts/Align.vim.git
+[submodule "home\\vimfiles\\external\\vim-pathogen"]
+	path = home\\vimfiles\\external\\vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
